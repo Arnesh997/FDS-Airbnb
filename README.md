@@ -67,16 +67,18 @@ Groups: The extra questions should extend the basic findings to explore advanced
 Question-1
 We would like you to investigate what makes a good property for Airbnb in Edinburgh
 
-1. Create new Dataframe
-2. 
-host_location
-first revuew
-last review
-host neighbourhood
-licen
-host abt
-calen upd
-bathroom
-neigh clean
+1. Create new Dataframe - delete: description, overview, host_since, host_location, host_about, 'host_neighbourhood', 'host_verifications', 'neighbourhood', latitude, longitude, room_type, property_type, reviews_per_month 
+2. Convert variables from host_response_time 
+3. Check for zero or Nan in host_response_rate and host_acceptance_rate
+4. host_has_super_host, bedrooms, beds to int from float
+5. bathroom_txt to bathrooms, consider only nums 
+6. Split amenities, only on keywords 
+7. remove dollar sign in price
+8. Remove rows with null in all review_scores columns
+9. 
 
-drp na
+
+
+
+<h3>Links for similar projects</h3>
+1. https://www.kaggle.com/code/duygut/airbnb-nyc-price-prediction
