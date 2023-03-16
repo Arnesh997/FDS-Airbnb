@@ -78,7 +78,5 @@ We would like you to investigate what makes a good property for Airbnb in Edinbu
 9. 
 
 
-
-
 <h3>Links for similar projects</h3>
 1. https://www.kaggle.com/code/duygut/airbnb-nyc-price-prediction
