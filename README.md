@@ -28,30 +28,36 @@ Groups: The extra questions should extend the basic findings to explore advanced
 
 <h3>Modification</h3>
 <ol>
-<li>picture_url to boolean (0,1)</li>
-<li>license (check what it is)</li>
-<li>Convert True and False to (0,1)
-    <ul>
-<li>instant_bookable</li>
-<li>host_identity</li>
-<li>host_has_profile_pic</li>
-<li> host_is _super_host</li>
-<li>has_availabilty</li>
-<li></li>
-    </ul>
-</li>
-<li>Remove % symbols
-    <ul>
-    <li>host_acceptance_rate</li>
-    <li>host_response_rate</li>
-    </ul>
-</li>
-<li>Convert property_type to some numbers</li>
-<li>Find unique values in room_type and assign numbers to it</li>
-<li>Seperate parking from description/name</li>
-<li>Remove html tags from the description</li>
+    <li>picture_url to boolean (0,1)</li>
+    <li>license (check what it is)</li>
+    <li>Convert True and False to (0,1)
+        <ul>
+    <li>instant_bookable</li>
+    <li>host_identity</li>
+    <li>host_has_profile_pic</li>
+    <li> host_is _super_host</li>
+    <li>has_availabilty</li>
+        </ul>
+    <li>Remove % symbols
+        <ul>
+            <li>host_acceptance_rate</li>
+            <li>host_response_rate</li>
+        </ul>
+    </li>
+    <li>Convert property_type to some numbers</li>
+    <li>Find unique values in room_type and assign numbers to it</li>
+    <li>Seperate parking from description/name</li>
+    <li>Remove html tags from the description</li>
 </ol>
 
+<h3>Modification done by abhay</h3>
+<ol>
+    <li>No need to change since no null values</li>
+    <li></li>
+    <li></li>
+    <li></li>
+
+</ol>
 
 <h3>Clarification</h3>
 <ol>
