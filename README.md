@@ -63,3 +63,20 @@ Groups: The extra questions should extend the basic findings to explore advanced
 <ol>
     <li>Bathroom</li>
 </ol>
+
+Question-1
+We would like you to investigate what makes a good property for Airbnb in Edinburgh
+
+1. Create new Dataframe
+2. 
+host_location
+first revuew
+last review
+host neighbourhood
+licen
+host abt
+calen upd
+bathroom
+neigh clean
+
+drp na
