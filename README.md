@@ -52,8 +52,8 @@ Groups: The extra questions should extend the basic findings to explore advanced
 
 <h3>Modification done by abhay</h3>
 <ol>
-    <li>No need to change since no null values</li>
-    <li></li>
+    <li>No need to change since no null values - deleting pictures_url</li>
+    <li>deleting license column since only 15 entries has license</li>
     <li></li>
     <li></li>
 
