@@ -82,3 +82,15 @@ We would like you to investigate what makes a good property for Airbnb in Edinbu
 1. https://www.kaggle.com/code/duygut/airbnb-nyc-price-prediction
 2. https://github.com/samuelklam/airbnb-pricing-prediction
 3. https://github.com/topics/airbnb-pricing-prediction
+
+
+
+
+---------------------------------
+Linear REgression Model - factors
+1. Number of imp_factors to consider
+2. The minimum count to consider to consider amenities
+3. Threshold for z values
+
+
+So far count > 1200 with z = 
