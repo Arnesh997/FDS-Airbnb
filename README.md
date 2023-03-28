@@ -93,4 +93,4 @@ Linear REgression Model - factors
 3. Threshold for z values
 
 
-So far count > 1200 with z = 
+So far count > 1200 with threshold = 0.5
