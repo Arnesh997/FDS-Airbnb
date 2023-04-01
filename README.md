@@ -100,6 +100,8 @@ Note : Need to remove price_log from features list in all the models
 TODO: Question-1
 1. Maybe remove the listings which have availablity for more than 30 or 60 days? Because the question is to predict the price for short term rental price?
 2. Remove price_log column in the all the models when predicting 
+3. Plot all the models prediction into one graph if possible (may not be feasible since all models have different feature selection ranking)
+4. Should remove z score method because as chat gpt says - Z-Score Method: You can use the Z-score method to identify and remove outliers. Calculate the Z-score for each data point, and remove any data points with a Z-score greater than a certain threshold (e.g., 3). This method assumes that the data is normally distributed.
 
 TODO: Question-2
 1. Create a suitable dataframe 
@@ -110,3 +112,7 @@ TODO: Question-2
 
 Question-3: Idea
 1. See what neighbourhoods comes in the range (Can see the radial distance) of a specific budget from a specific neighbourhood (example: Old town)
+
+
+Link for map colour 
+https://matplotlib.org/stable/tutorials/colors/colormaps.html
