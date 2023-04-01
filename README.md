@@ -94,3 +94,16 @@ Linear REgression Model - factors
 
 
 So far count > 1200 with threshold = 0.5
+
+Note : Need to remove price_log from features list in all the models
+
+TODO: Question-1
+1. Maybe remove the listings which have availablity for more than 30 or 60 days? Because the question is to predict the price for short term rental price?
+2. Remove price_log column in the all the models when predicting 
+
+TODO: Question-2
+1. Create a suitable dataframe 
+2. Data cleaning
+3. Plot avg price in neighbourhoods
+4. Plot avg price per person in neighbourhoods
+5. Plot a graph to see how the prices changes as we go radially outside the city center
