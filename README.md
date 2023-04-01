@@ -107,3 +107,6 @@ TODO: Question-2
 3. Plot avg price in neighbourhoods
 4. Plot avg price per person in neighbourhoods
 5. Plot a graph to see how the prices changes as we go radially outside the city center
+
+Question-3: Idea
+1. See what neighbourhoods comes in the range (Can see the radial distance) of a specific budget from a specific neighbourhood (example: Old town)
