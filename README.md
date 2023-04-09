@@ -116,3 +116,9 @@ Question-3: Idea
 
 Link for map colour 
 https://matplotlib.org/stable/tutorials/colors/colormaps.html
+
+
+
+Writing
+1. Introduction -
+- Remove the word scraping? We didn't scrape the data
